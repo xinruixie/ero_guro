@@ -43,3 +43,4 @@ The conversion of TEI started when choosing the original files to process. By th
 However, there are also advantages in processing them separately. For instance, each of them are independent and you can run the script freely without worrying about previously processed TEI being overwritten. I have also left the processed TEI unorganized (i.e., not collecting them in a sub-directory) intentionally, as it allowed me to switch from different files (e.g., to compare one’s TXT and TEI) and to quickly navigate if there are leftovers (for my processing wasn’t completed at a time). Update: I have organized them at the end. 
 The work was overall smooth, yet sometimes might not be done in the “smartest” way and, I assume, might be only applicable to this kind of small workload. Further deliberations in optimizing the code will be essential if performing larger-scale conversion. 
 
+`For more tech explanations, see the folder "evaluation"`
